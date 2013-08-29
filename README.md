@@ -1,8 +1,8 @@
 AndroidHSVColourSelectionDialog
 ===============================
 
-A Dialog for selecting a HSV Colour in android, contains a basic example XML layout, the dialog class, and a Listener.
-From an activity:   
+A Dialog for Selecting a HSV Colour in Android, Contains a Basic Example XML Layout, the Dialog Class, and a Listener.
+From an Activity:   
 
 ```java
 HSVColourPickerDialog colourDialog = new HSVColourPickerDialog(this,180,180,180); //H,S,V are 0-360
