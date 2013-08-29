@@ -1,4 +1,4 @@
-package uk.co.iceroad.dyslexia.characterpicker.controller;
+package uk.co.iceroad.colourpickerexample.controller;
 
 /**
  * A Listener to respond to a HSVColourPickerDialog's Done button being pressed
