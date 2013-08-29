@@ -1,0 +1,22 @@
+Place the xml file in your res->layout folder, and the two classes into your src folder
+
+From an activity:
+
+
+HSVColourPickerDialog = colourDialog = new HSVColourPickerDialog(this,180,180,180);
+colourDialog.setColourPickerDoneListener(new ColourPickerDoneListener() {
+				
+				public void onDone(int color) {
+						//Extract Colour
+				}
+			});
+
+colourDialog.show();
+
+
+
+
+
+
+Update The layout as you see Fit
+Enjoy
