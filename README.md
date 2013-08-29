@@ -5,7 +5,7 @@ A Dialog for selecting a HSV Colour in android, contains a basic example XML lay
 From an activity:   
 
 ```java
-HSVColourPickerDialog = colourDialog = new HSVColourPickerDialog(this,180,180,180); //H,S,V are 0-360
+HSVColourPickerDialog colourDialog = new HSVColourPickerDialog(this,180,180,180); //H,S,V are 0-360
 colourDialog.setColourPickerDoneListener(new ColourPickerDoneListener() {	
 	public void onDone(int color) { 			
 		//Extract Colour 			
