@@ -1,4 +1,4 @@
-package uk.co.iceroad.dyslexia.characterpicker.controller;
+package uk.co.iceroad.colourpickerexample.controller;
 
 import uk.co.iceroad.R;
 import android.app.Dialog;
